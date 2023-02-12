@@ -1,6 +1,6 @@
 # 我的餐廳清單
 
-![Index page about Restaurant List](./public/我的餐廳清單首頁畫面.png）
+![image](https://github.com/LongXiangL/restaurant_list/blob/main/public/%E6%88%91%E7%9A%84%E9%A4%90%E5%BB%B3%E6%B8%85%E5%96%AE%E9%A6%96%E9%A0%81%E7%95%AB%E9%9D%A2.png）
 ## 介紹
 
 紀錄屬於自己的餐廳清單，可以瀏覽餐廳、查看詳細資訊、甚至連結到地圖。
